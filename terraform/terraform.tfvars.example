@@ -1,0 +1,6 @@
+# Copie para terraform.tfvars e preencha. NAO versione terraform.tfvars.
+
+aws_region  = "sa-east-1"
+environment = "dev"
+
+db_password = "[PASSWORD]"
